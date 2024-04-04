@@ -8,3 +8,5 @@ for line in file:
     sum += number  #same as sum = sum + number
 
 print(f"Total is {sum}")
+
+file.close()
